@@ -16,7 +16,7 @@ This project aims to detect **Dry Eye Disease** using machine learning technique
   - Flask (for creating a web application interface)
 - **Dataset**: The project uses a medical dataset (`data/Dry_Eye_Dataset.csv`) containing features related to eye health to train the model.
 
-**How It Works :**
+## **How It Works :**
 
 -Data Preprocessing:The dataset is cleaned and processed to handle missing values and outliers.
 
@@ -28,7 +28,8 @@ This project aims to detect **Dry Eye Disease** using machine learning technique
 
 -Model Explainability: SHAP is used to explain model predictions.
 
-**Key Features :**
+
+## **Key Features :**
 -Predicts whether a patient has Dry Eye Disease based on various medical features.
 
 -Built using machine learning techniques like classification.
@@ -39,10 +40,12 @@ This project aims to detect **Dry Eye Disease** using machine learning technique
 
 -Flask API to deploy the model and make predictions through a web interface.
 
-**Results :**
+
+## **Results :**
 The machine learning model achieved an accuracy of XX% in detecting Dry Eye Disease based on the dataset.
 
 Evaluation metrics like accuracy, precision, recall, and F1-score are reported in the notebook.
+
 
 **Files and Directories :**
 data/: Contains the dataset (Dry_Eye_Dataset.csv) for Dry Eye Disease detection.
