@@ -18,7 +18,7 @@ This project aims to detect **Dry Eye Disease** using machine learning technique
 
 How It Works :
 
-Data Preprocessing: The dataset is cleaned and processed to handle missing values and outliers.
+**Data Preprocessing:** The dataset is cleaned and processed to handle missing values and outliers.
 
 Feature Selection: Key features from the dataset are selected for model training.
 
