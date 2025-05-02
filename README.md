@@ -59,8 +59,9 @@ app.py: Flask application for web interface deployment.
 requirements.txt: List of dependencies required to run the project.
 
 
-**Contact :**
+##**Contact :**
 Author: Khushi Atara
+
 Email: khushiatara04@gmail.com
 
 
